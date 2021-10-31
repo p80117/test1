@@ -1,0 +1,14 @@
+this is test 15
+next row test
+3 row test	tab test
+Number 0xf
+Floating Number = 01.10
+Left 4 bit = 0x160
+Test Date=2019¦~11¤ë30¤é
+this is test 15
+next row test
+3 row test	tab test
+Number 0xf
+Floating Number = 01.10
+Left 4 bit = 0x160
+Test Date=20191130

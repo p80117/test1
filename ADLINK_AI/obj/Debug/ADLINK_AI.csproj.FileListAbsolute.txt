@@ -1,0 +1,21 @@
+E:\SKY\NOW\Test Program\AnalogInput\ADLINK_AI\ADLINK_AI\bin\Debug\ADLINK_AI.exe.config
+E:\SKY\NOW\Test Program\AnalogInput\ADLINK_AI\ADLINK_AI\bin\Debug\ADLINK_AI.exe
+E:\SKY\NOW\Test Program\AnalogInput\ADLINK_AI\ADLINK_AI\bin\Debug\ADLINK_AI.pdb
+E:\SKY\NOW\Test Program\AnalogInput\ADLINK_AI\ADLINK_AI\obj\Debug\ADLINK_AI.csprojResolveAssemblyReference.cache
+E:\SKY\NOW\Test Program\AnalogInput\ADLINK_AI\ADLINK_AI\obj\Debug\ADLINK_AI.Form1.resources
+E:\SKY\NOW\Test Program\AnalogInput\ADLINK_AI\ADLINK_AI\obj\Debug\ADLINK_AI.Properties.Resources.resources
+E:\SKY\NOW\Test Program\AnalogInput\ADLINK_AI\ADLINK_AI\obj\Debug\ADLINK_AI.csproj.GenerateResource.Cache
+E:\SKY\NOW\Test Program\AnalogInput\ADLINK_AI\ADLINK_AI\obj\Debug\ADLINK_AI.exe
+E:\SKY\NOW\Test Program\AnalogInput\ADLINK_AI\ADLINK_AI\obj\Debug\ADLINK_AI.pdb
+E:\SKY\NOW\Test Program\AnalogInput\ADLINK_AI\ADLINK_AI\obj\Debug\ADLINK_AI.Initial_Card.resources
+C:\Users\Sky\Desktop\ADLINK_AI\ADLINK_AI\bin\Debug\ADLINK_AI.exe.config
+C:\Users\Sky\Desktop\ADLINK_AI\ADLINK_AI\bin\Debug\ADLINK_AI.exe
+C:\Users\Sky\Desktop\ADLINK_AI\ADLINK_AI\bin\Debug\ADLINK_AI.pdb
+C:\Users\Sky\Desktop\ADLINK_AI\ADLINK_AI\obj\Debug\ADLINK_AI.csprojAssemblyReference.cache
+C:\Users\Sky\Desktop\ADLINK_AI\ADLINK_AI\obj\Debug\ADLINK_AI.Form1.resources
+C:\Users\Sky\Desktop\ADLINK_AI\ADLINK_AI\obj\Debug\ADLINK_AI.Initial_Card.resources
+C:\Users\Sky\Desktop\ADLINK_AI\ADLINK_AI\obj\Debug\ADLINK_AI.Properties.Resources.resources
+C:\Users\Sky\Desktop\ADLINK_AI\ADLINK_AI\obj\Debug\ADLINK_AI.csproj.GenerateResource.cache
+C:\Users\Sky\Desktop\ADLINK_AI\ADLINK_AI\obj\Debug\ADLINK_AI.csproj.CoreCompileInputs.cache
+C:\Users\Sky\Desktop\ADLINK_AI\ADLINK_AI\obj\Debug\ADLINK_AI.exe
+C:\Users\Sky\Desktop\ADLINK_AI\ADLINK_AI\obj\Debug\ADLINK_AI.pdb

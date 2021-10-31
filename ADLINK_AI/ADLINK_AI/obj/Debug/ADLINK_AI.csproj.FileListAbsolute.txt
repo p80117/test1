@@ -1,0 +1,46 @@
+E:\SKY\NOW\Test Program\AnalogInput\ADLINK_AI\ADLINK_AI\bin\Debug\ADLINK_AI.exe.config
+E:\SKY\NOW\Test Program\AnalogInput\ADLINK_AI\ADLINK_AI\bin\Debug\ADLINK_AI.exe
+E:\SKY\NOW\Test Program\AnalogInput\ADLINK_AI\ADLINK_AI\bin\Debug\ADLINK_AI.pdb
+E:\SKY\NOW\Test Program\AnalogInput\ADLINK_AI\ADLINK_AI\obj\Debug\ADLINK_AI.csprojResolveAssemblyReference.cache
+E:\SKY\NOW\Test Program\AnalogInput\ADLINK_AI\ADLINK_AI\obj\Debug\ADLINK_AI.Form1.resources
+E:\SKY\NOW\Test Program\AnalogInput\ADLINK_AI\ADLINK_AI\obj\Debug\ADLINK_AI.Properties.Resources.resources
+E:\SKY\NOW\Test Program\AnalogInput\ADLINK_AI\ADLINK_AI\obj\Debug\ADLINK_AI.csproj.GenerateResource.Cache
+E:\SKY\NOW\Test Program\AnalogInput\ADLINK_AI\ADLINK_AI\obj\Debug\ADLINK_AI.exe
+E:\SKY\NOW\Test Program\AnalogInput\ADLINK_AI\ADLINK_AI\obj\Debug\ADLINK_AI.pdb
+E:\SKY\NOW\Test Program\AnalogInput\ADLINK_AI\ADLINK_AI\obj\Debug\ADLINK_AI.Initial_Card.resources
+C:\Users\sky.feng\Desktop\TestProgram\ADLINK_AI\ADLINK_AI\bin\Debug\ADLINK_AI.exe.config
+C:\Users\sky.feng\Desktop\TestProgram\ADLINK_AI\ADLINK_AI\obj\Debug\ADLINK_AI.exe
+C:\Users\sky.feng\Desktop\TestProgram\ADLINK_AI\ADLINK_AI\obj\Debug\ADLINK_AI.pdb
+C:\Users\sky.feng\Desktop\TestProgram\ADLINK_AI\ADLINK_AI\obj\Debug\ADLINK_AI.Form1.resources
+C:\Users\sky.feng\Desktop\TestProgram\ADLINK_AI\ADLINK_AI\obj\Debug\ADLINK_AI.Initial_Card.resources
+C:\Users\sky.feng\Desktop\TestProgram\ADLINK_AI\ADLINK_AI\obj\Debug\ADLINK_AI.Properties.Resources.resources
+C:\Users\sky.feng\Desktop\TestProgram\ADLINK_AI\ADLINK_AI\obj\Debug\ADLINK_AI.csproj.GenerateResource.Cache
+C:\Users\sky.feng\Desktop\TestProgram\ADLINK_AI\ADLINK_AI\bin\Debug\ADLINK_AI.exe
+C:\Users\sky.feng\Desktop\TestProgram\ADLINK_AI\ADLINK_AI\bin\Debug\ADLINK_AI.pdb
+C:\Users\sky.feng\Desktop\TestProgram\ADLINK_AI\ADLINK_AI\obj\Debug\ADLINK_AI.csprojAssemblyReference.cache
+C:\Users\sky.feng\Desktop\TestProgram\ADLINK_AI\ADLINK_AI\obj\Debug\ADLINK_AI.csproj.CoreCompileInputs.cache
+C:\Users\sky.feng\Desktop\TestProgram\ADLINK_AI\ADLINK_AI\obj\Debug\ADLINK_AI.csproj.ResolveComReference.cache
+E:\SKY\NOW\Test Program\TestProgram\ADLINK_AI\ADLINK_AI\bin\Debug\ADLINK_AI.exe.config
+E:\SKY\NOW\Test Program\TestProgram\ADLINK_AI\ADLINK_AI\bin\Debug\ADLINK_AI.exe
+E:\SKY\NOW\Test Program\TestProgram\ADLINK_AI\ADLINK_AI\bin\Debug\ADLINK_AI.pdb
+E:\SKY\NOW\Test Program\TestProgram\ADLINK_AI\ADLINK_AI\obj\Debug\ADLINK_AI.csproj.ResolveComReference.cache
+E:\SKY\NOW\Test Program\TestProgram\ADLINK_AI\ADLINK_AI\obj\Debug\ADLINK_AI.Form1.resources
+E:\SKY\NOW\Test Program\TestProgram\ADLINK_AI\ADLINK_AI\obj\Debug\ADLINK_AI.Initial_Card.resources
+E:\SKY\NOW\Test Program\TestProgram\ADLINK_AI\ADLINK_AI\obj\Debug\ADLINK_AI.Properties.Resources.resources
+E:\SKY\NOW\Test Program\TestProgram\ADLINK_AI\ADLINK_AI\obj\Debug\ADLINK_AI.csproj.GenerateResource.cache
+E:\SKY\NOW\Test Program\TestProgram\ADLINK_AI\ADLINK_AI\obj\Debug\ADLINK_AI.csproj.CoreCompileInputs.cache
+E:\SKY\NOW\Test Program\TestProgram\ADLINK_AI\ADLINK_AI\obj\Debug\ADLINK_AI.exe
+E:\SKY\NOW\Test Program\TestProgram\ADLINK_AI\ADLINK_AI\obj\Debug\ADLINK_AI.pdb
+E:\SKY\NOW\Test Program\TestProgram\ADLINK_AI\ADLINK_AI\obj\Debug\ADLINK_AI.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\ADLINK_AI\ADLINK_AI\bin\Debug\ADLINK_AI.exe.config
+C:\Users\USER\Desktop\ADLINK_AI\ADLINK_AI\bin\Debug\ADLINK_AI.exe
+C:\Users\USER\Desktop\ADLINK_AI\ADLINK_AI\bin\Debug\ADLINK_AI.pdb
+C:\Users\USER\Desktop\ADLINK_AI\ADLINK_AI\obj\Debug\ADLINK_AI.csproj.ResolveComReference.cache
+C:\Users\USER\Desktop\ADLINK_AI\ADLINK_AI\obj\Debug\ADLINK_AI.Form1.resources
+C:\Users\USER\Desktop\ADLINK_AI\ADLINK_AI\obj\Debug\ADLINK_AI.Initial_Card.resources
+C:\Users\USER\Desktop\ADLINK_AI\ADLINK_AI\obj\Debug\ADLINK_AI.Properties.Resources.resources
+C:\Users\USER\Desktop\ADLINK_AI\ADLINK_AI\obj\Debug\ADLINK_AI.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\ADLINK_AI\ADLINK_AI\obj\Debug\ADLINK_AI.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\ADLINK_AI\ADLINK_AI\obj\Debug\ADLINK_AI.exe
+C:\Users\USER\Desktop\ADLINK_AI\ADLINK_AI\obj\Debug\ADLINK_AI.pdb
+C:\Users\USER\Desktop\ADLINK_AI\ADLINK_AI\obj\Debug\ADLINK_AI.csprojAssemblyReference.cache

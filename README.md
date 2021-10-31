@@ -3,8 +3,8 @@
 >456
 >>hello world
 
-'''cmd
+```cmd
 git add .
 git commit -m "message"
 git push origin main
-'''
+```
